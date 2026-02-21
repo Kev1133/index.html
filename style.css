@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+
+.columna1{
+
+height: 100px;  
+background: green;
+}
+
+.contenedor{
+    position: relative;
+    height: 540px;
+    padding: 20px;
+
+}
+
+.rectangulo{
+width: 48%;
+height: 550px;
+background: blue;
+position: absolute;
+top: 20px;
+left: 20px;
+
+}
+.rectangulo2{
+    width:48%;
+    height: 550px;
+    background: red;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+
+.rectangulo3{
+      width: 90%;
+    height: 45%;
+    background: yellow;
+    position: absolute;
+    top: 20px;
+    left: 5%;
+}
+
+.rectangulo4{
+    width: 90%;
+    height: 45%;
+    background: yellow;
+    position: absolute;
+    bottom: 20px;
+    left: 5%;
+}
+
+
+.rectangulo5{
+    height: 500px;
+    background: purple;
+}
+
+.rectangulo6{
+    margin-top: 20px;
+    height: 60px;
+    background: blue;
+}
